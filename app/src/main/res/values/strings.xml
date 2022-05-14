@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registro Notas</string>
+    <string name="title_form">REGISTRO DE NOTAS</string>
+    <string-array name="niveles">
+        <item>Primero</item>
+        <item>Segundo</item>
+        <item>Tercero</item>
+        <item>Cuarto</item>
+        <item>Quinto</item>
+        <item>Sexto</item>
+        <item>Septimo</item>
+        <item>Octavo</item>
+        <item>Noveno</item>
+        <item>Decimo</item>
+    </string-array>
+
+    <string-array name="asignaturas">
+
+        <item>Seguridad TI</item>
+        <item>App Movil</item>
+        <item>Business</item>
+        <item>Servidores</item>
+        <item>App Web</item>
+    </string-array>
+</resources>
